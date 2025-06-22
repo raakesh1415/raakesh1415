@@ -1,19 +1,65 @@
 <h1 align="center">Hi 👋, I'm Raakesh</h1>
-<h3 align="center">I'm a passionate software engineering student at Universiti Teknologi Malaysia, with a deep interest in building scalable, efficient, and innovative software solutions. My journey in the world of coding started 5 years ago, and since then, I've been committed to continuously learning and improving my skills.</h3>
+<h3 align="center">Software Engineering Student | Universiti Teknologi Malaysia</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Java, C++ and Python**
-
-- 📫 How to reach me **raakesh1415@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raakesh-ovannan-b88686255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raakesh-ovannan-b88686255/" height="30" width="40" /></a>
-<a href="https://instagram.com/@raakesh_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raakesh_28" height="30" width="40" /></a>
+<p align="center">
+🏆 National Hackathon Champion • 💡 AI & Web Developer • 🎓 CGPA 3.99 • 🔍 Open to 2025 Opportunities  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+🎓 **About Me**  
+I'm a passionate and driven Software Engineering student at Universiti Teknologi Malaysia (UTM), specializing in building intelligent, scalable, and impactful solutions. With a strong academic record and hands-on experience in full-stack development, AI/ML, and software architecture, I thrive on solving real-world problems through code.
+
+---
+
+💼 **What I’ve Been Up To**  
+- 🧠 Building **machine learning models** for plant disease detection and performance prediction  
+- 🖥️ Developing **web-based systems** using Laravel, ReactJS, Django, and Spring Boot  
+- 🏆 Champion – *MyUniversities Hackathon 2024 (Gaianet Track)*  
+- 🤖 Finalist – *DHL Digital Automation Challenge 2.0*, *UTMxHackathon*, *Coderush*, and more  
+- 💼 Software Developer Intern @ **HERY Intelligence Technology**, July–Aug 2024  
+
+---
+
+📌 **Currently Exploring**  
+- Machine Learning & AI  
+- Backend systems with Spring Boot and Laravel  
+- Full-stack app development using React, Django, PostgreSQL  
+
+---
+
+💬 **Ask Me About**  
+`Java` • `C++` • `Python` • `Laravel` • `Django` • `MySQL` • `Flutter` • `UiPath`
+
+---
+
+📫 **Get in Touch**  
+- Email: [raakesh1415@gmail.com](mailto:raakesh1415@gmail.com)  
+- LinkedIn: [linkedin.com/in/raakesh-a-ovannan](https://www.linkedin.com/in/raakesh-a-ovannan-b88686255)  
+- GitHub: [github.com/raakesh1415](https://github.com/raakesh1415)
+
+---
+
+🛠 **Tech Stack & Tools**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+⭐ **Fun Fact:** I’ve led teams in competitive programming, hackathons, and esports tournaments – because collaboration and competition both sharpen my edge as an engineer.
 
