@@ -2,34 +2,42 @@
 <h3 align="center">Software Engineering Student | Universiti Teknologi Malaysia</h3>
 
 <p align="center">
-🏆 National Hackathon Champion • 💡 AI & Web Developer • 🎓 CGPA 3.99 • 🔍 Open to 2025 Opportunities  
+🏆 National Hackathon Champion • 🤖 Automation & AI Enthusiast • 💡 Full-Stack Developer • 🔍 Open to Opportunities  
 </p>
 
 ---
 
 🎓 **About Me**  
-I'm a passionate and driven Software Engineering student at Universiti Teknologi Malaysia (UTM), specializing in building intelligent, scalable, and impactful solutions. With a strong academic record and hands-on experience in full-stack development, AI/ML, and software architecture, I thrive on solving real-world problems through code.
+I'm a passionate and driven Software Engineering student at Universiti Teknologi Malaysia (UTM), with a focus on building intelligent, automated, and scalable systems. I enjoy turning real-world challenges into innovative digital solutions by combining backend engineering, machine learning, and process automation.
 
 ---
 
 💼 **What I’ve Been Up To**  
-- 🧠 Building **machine learning models** for plant disease detection and performance prediction  
-- 🖥️ Developing **web-based systems** using Laravel, ReactJS, Django, and Spring Boot  
+- 🧠 Developing **machine learning models** for predictive analytics and computer vision  
+- 🖥️ Engineering **web systems** using Laravel, Django, ReactJS, and Spring Boot  
+- 🤖 Building **automation workflows** with UiPath and integrated platforms  
 - 🏆 Champion – *MyUniversities Hackathon 2024 (Gaianet Track)*  
-- 🤖 Finalist – *DHL Digital Automation Challenge 2.0*, *UTMxHackathon*, *Coderush*, and more  
+- 🥈 Finalist – *DHL Digital Automation Challenge*, *UTMxHackathon*, *Coderush*, and more  
 - 💼 Software Developer Intern @ **HERY Intelligence Technology**, July–Aug 2024  
 
 ---
 
 📌 **Currently Exploring**  
-- Machine Learning & AI  
-- Backend systems with Spring Boot and Laravel  
-- Full-stack app development using React, Django, PostgreSQL  
+- AI-Powered Automation  
+- Backend APIs with Spring Boot and Laravel  
+- Frontend Engineering with ReactJS and Flutter  
+
+---
+
+⚙️ **Automation Projects**  
+- 🧾 **Employee Leave Management System** using Laravel + **UiPath** to automate HR workflows  
+- 📊 Integrated Random Forest in Django project for **automated student performance prediction**  
+- 📂 Built a **centralized school system** automating data handling and reporting for multiple departments  
 
 ---
 
 💬 **Ask Me About**  
-`Java` • `C++` • `Python` • `Laravel` • `Django` • `MySQL` • `Flutter` • `UiPath`
+`Java` • `C++` • `Python` • `Laravel` • `Django` • `Spring Boot` • `UiPath` • `MySQL` • `PostgreSQL` • `Flutter`
 
 ---
 
@@ -51,15 +59,16 @@ I'm a passionate and driven Software Engineering student at Universiti Teknologi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/UiPath_Logo.png" alt="UiPath" width="40" height="40"/> -->
 </p>
 
 ---
 
-⭐ **Fun Fact:** I’ve led teams in competitive programming, hackathons, and esports tournaments – because collaboration and competition both sharpen my edge as an engineer.
-
+⭐ **Fun Fact:** Whether it's automating workflows or leading teams at hackathons, I believe the best engineering comes from combining creativity with efficiency.
