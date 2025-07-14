@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raakesh</h1>
+<h1 align="center">Hi 👋, I'm Raakesh Ovannan</h1>
 <h3 align="center">Software Engineering Student | Universiti Teknologi Malaysia</h3>
 
 <p align="center">
