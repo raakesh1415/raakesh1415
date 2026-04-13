@@ -1,74 +1,89 @@
-<h1 align="center">Hi 👋, I'm Raakesh Ovannan</h1>
-<h3 align="center">Software Engineering Student | Universiti Teknologi Malaysia</h3>
+<h1 align="center">Hi 👋, I'm Raakesh</h1>
+<h3 align="center">Software Engineer • AI, Automation & SAP Enthusiast</h3>
 
 <p align="center">
-🏆 National Hackathon Champion • 🤖 Automation & AI Enthusiast • 💡 Full-Stack Developer • 🔍 Open to Opportunities  
+Building smart systems, automating workflows, and exploring enterprise technologies 🚀
 </p>
 
 ---
 
-🎓 **About Me**  
-I'm a passionate and driven Software Engineering student at Universiti Teknologi Malaysia (UTM), with a focus on building intelligent, automated, and scalable systems. I enjoy turning real-world challenges into innovative digital solutions by combining backend engineering, machine learning, and process automation.
+## 👨‍💻 About Me
+
+I'm a Software Engineering student at **Universiti Teknologi Malaysia (UTM)** who enjoys building systems that are both **intelligent and scalable**.
+
+My focus is on combining:
+- 🤖 AI & Machine Learning  
+- ⚙️ Automation & Process Optimization  
+- 🌐 Full-Stack Development  
+- ☁️ Enterprise & Cloud Technologies (SAP)
+
+I like working on projects where software solves real-world inefficiencies — especially through automation and data-driven systems.
 
 ---
 
-💼 **What I’ve Been Up To**  
-- 🧠 Developing **machine learning models** for predictive analytics and computer vision  
-- 🖥️ Engineering **web systems** using Laravel, Django, ReactJS, and Spring Boot  
-- 🤖 Building **automation workflows** with UiPath and integrated platforms  
-- 🏆 Champion – *MyUniversities Hackathon 2024 (Gaianet Track)*  
-- 🥈 Finalist – *DHL Digital Automation Challenge*, *UTMxHackathon*, *Coderush*, and more  
-- 💼 Software Developer Intern @ **HERY Intelligence Technology**, July–Aug 2024  
+## 🚀 What I'm Working On
+
+- 🧠 AI-powered applications (prediction & computer vision)
+- ⚙️ Automation workflows using UiPath + backend systems
+- 🌐 Full-stack development with **Laravel, Django, React**
+- ☁️ Exploring **SAP cloud & enterprise application development**
 
 ---
 
-📌 **Currently Exploring**  
-- AI-Powered Automation  
-- Backend APIs with Spring Boot and Laravel  
-- Frontend Engineering with ReactJS and Flutter  
+## 🛠 Tech Stack
+
+**Languages**  
+`Java` `Python` `C++` `JavaScript` `PHP` `SQL`
+
+**Frameworks & Tools**  
+`Laravel` `Django` `Spring Boot` `React` `Flutter`
+
+**SAP & Enterprise**  
+`ABAP` `SAP CAP` `SAP BTP` `SAP Fiori` `SAPUI5` `SAP HANA Cloud`
+
+**Automation & Cloud**  
+`UiPath` `REST APIs`
+
+**Databases**  
+`MySQL` `PostgreSQL` `Firebase`
 
 ---
 
-⚙️ **Automation Projects**  
-- 🧾 **Employee Leave Management System** using Laravel + **UiPath** to automate HR workflows  
-- 📊 Integrated Random Forest in Django project for **automated student performance prediction**  
-- 📂 Built a **centralized school system** automating data handling and reporting for multiple departments  
+## 🧩 Projects I Enjoyed Building
+
+- 🤖 **AI Headcount System** – ML-powered student performance prediction  
+- ⚙️ **Leave Automation System** – RPA + web system eliminating manual HR work  
+- ☁️ **SAP Audit Log Automation** – Cloud-based log system with scheduling & API integration  
+- 🌱 **Plant Disease Detection** – CNN model with 95%+ accuracy  
+- ⚖️ **AI Legal Assistant** – Hackathon-winning decentralized AI project  
 
 ---
 
-💬 **Ask Me About**  
-`Java` • `C++` • `Python` • `Laravel` • `Django` • `Spring Boot` • `UiPath` • `MySQL` • `PostgreSQL` • `Flutter`
+## 🏆 Highlights
+
+- 🥇 Hackathon Champion (National Level)  
+- 🏅 Multiple finalist finishes in tech competitions  
+- 💼 Experience building **SAP enterprise applications**  
+- 🎓 Dean’s List (CGPA 3.99)  
 
 ---
 
-📫 **Get in Touch**  
-- Email: [raakesh1415@gmail.com](mailto:raakesh1415@gmail.com)  
-- LinkedIn: [linkedin.com/in/raakesh-a-ovannan](https://www.linkedin.com/in/raakesh-a-ovannan-b88686255)  
-- GitHub: [github.com/raakesh1415](https://github.com/raakesh1415)
+## 🎯 Currently Exploring
+
+- AI + Automation integrated systems  
+- Backend architecture & APIs  
+- SAP enterprise solutions & cloud apps  
 
 ---
 
-🛠 **Tech Stack & Tools**
+## 📫 Connect With Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/UiPath_Logo.png" alt="UiPath" width="40" height="40"/> -->
-</p>
+- 📧 **raakesh1415@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/raakesh-a-ovannan)
+- 💻 [GitHub](https://github.com/raakesh1415)
 
 ---
 
-⭐ **Fun Fact:** Whether it's automating workflows or leading teams at hackathons, I believe the best engineering comes from combining creativity with efficiency.
+## ⚡ Fun Fact
+
+I enjoy building systems that **replace repetitive work with smart automation**.
